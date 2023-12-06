@@ -6,9 +6,6 @@ Cisco IOS est le logiciel embarqué de tout routeur et switchs Cisco. Voici une 
 
 # Menu de Navigation
 
-- [Les commandes de bases de Cisco IOS](#les-commandes-de-bases-de-cisco-ios)
-  - [Introduction](#introduction)
-- [Menu de Navigation](#menu-de-navigation)
   - [Commande en Mode Standard](#commande-en-mode-standard)
   - [Commandes en Mode Privilégié](#commandes-en-mode-privilégié)
   - [Commandes en Configure Terminal](#commandes-en-configure-terminal)
