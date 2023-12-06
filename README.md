@@ -12,7 +12,12 @@ Voici une liste de commandes pouvant vous être utiles, à savoir que chaque com
 - `switchport mode access/trunk`: Permet de spécifier si le port est trunk ou non, il faut être en mode de configuration d’interface pour l’utiliser (`config-if`)
 - `switchport access vlan numero / voice`: Permet de spécifier le numéro de vlan associé à l’interface, utiliser voice si vous voulez associer cette interface avec un vlan de voix (généralement le 40), il faut être en mode de configuration d’interface pour l’utiliser (`config-if`)
 - `vlan numero`: Cette commande permet d’activer un vlan en spécifiant son numero.
+- `show vlan`: Cette commande permet d'afficher la config des vlan, vous pouvez faire `show vlan brief` pour un affichage plus court
+- `show interface "interface"`: Cette commande permet d'afficher les détails d'une interface
+- `show interfaces`: Cette commande permet d'afficher les détails de toutes les interfaces
+- `show running-config` `(show run)`: Cette commande permet d'afficher la config actuelle, montrant tout les paramètres de tout et n'importe quoi.
 - `copy running-config startup-config` (`copy run start`): Permet de copier la configuration actuelle dans la configuration de démarrage, donc en gros de sauvegarder votre travail.
+
 **Attention : Faites cette commande si vous êtes sûr d'avoir tout bien fait.**
 
 **Si vous rentrez une commande n’existant pas en mode privilégié ou standard donc : # et >, le routeur/switch va essayer de communiquer avec un domaine ayant ce nom, résultant en une longue attente.**
