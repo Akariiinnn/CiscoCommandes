@@ -4,6 +4,17 @@
 
 Cisco IOS est le logiciel embarqué de tout routeur et switchs Cisco. Voici une liste de commandes pouvant vous être utiles, à savoir que chaque commande peut être raccourcie. La commande raccourcie sera écrite entre parenthèses.
 
+# Menu de Navigation
+
+- [Les commandes de bases de Cisco IOS](#les-commandes-de-bases-de-cisco-ios)
+  - [Introduction](#introduction)
+- [Menu de Navigation](#menu-de-navigation)
+  - [Commande en Mode Standard](#commande-en-mode-standard)
+  - [Commandes en Mode Privilégié](#commandes-en-mode-privilégié)
+  - [Commandes en Configure Terminal](#commandes-en-configure-terminal)
+  - [Commandes en Config-Interface](#commandes-en-config-interface)
+  - [Autres Commandes Utiles](#autres-commandes-utiles)
+
 ## Commande en Mode Standard
 
 - `vlan numero`: Cette commande permet d’activer un vlan en spécifiant son numero.
