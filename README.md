@@ -1,6 +1,6 @@
 # Les commandes de bases de Cisco IOS
 
-Cisco IOS est le logiciel embarqué de tout routeur et switchs Cisco.
+## Cisco IOS est le logiciel embarqué de tout routeur et switchs Cisco.
 
 Voici une liste de commandes pouvant vous être utiles, à savoir que chaque commande peut être raccourcie. La commande raccourcie sera écrite entre parenthèses.
 
