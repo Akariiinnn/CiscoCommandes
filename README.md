@@ -42,6 +42,6 @@ Cisco IOS est le logiciel embarqué de tout routeur et switchs Cisco. Voici une 
 
 ## Autres Commandes Utiles
 
-- `exit`: Permet de quitter le mode en cours. Example, passer de Configure-Interface a Configure Terminal ou de Configure Terminal à Mode Privilégié
+- `exit`: Permet de quitter le mode en cours. Exemple, passer de Configure-Interface a Configure Terminal ou de Configure Terminal à Mode Privilégié
 
 **Si vous rentrez une commande n’existant pas en mode privilégié ou standard donc : # et >, le routeur/switch va essayer de communiquer avec un domaine ayant ce nom, résultant en une longue attente.**
